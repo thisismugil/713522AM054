@@ -3,3 +3,7 @@
 ![image](https://github.com/user-attachments/assets/6f3b6893-3388-43b4-a1ae-180659efba68)
 ![image](https://github.com/user-attachments/assets/67e228ee-420b-4703-a892-7b0eca07d3c9)
 
+i have used to store the data localy because the url is in get method
+![image](https://github.com/user-attachments/assets/461aa9fa-6523-4057-b658-5832269d32c0)
+
+
