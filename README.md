@@ -1,7 +1,7 @@
-Checked backend with the postman
-i have used to store the data localy because the url is in get method
-Bearer token is refreshing and got closed not able to retrive the content using the bearer tokens i have written the code for frontend with the tailwindcss 
-Frontend done with the basic structure not able to retrive the data. The bearer token is got expired and refreshed after 3 o clock.
+<p>Checked backend with the postman</p>
+<p>i have used to store the data localy because the url is in get method</p>
+<p>Bearer token is refreshing and got closed not able to retrive the content using the bearer tokens i have written the code for frontend with the tailwindcss</p>
+<p>Frontend done with the basic structure not able to retrive the data. The bearer token is got expired and refreshed after 3 o clock.</p>
 
 ![image](https://github.com/user-attachments/assets/ac6d1242-f224-43f1-9e13-6288c1598dda)
 ![image](https://github.com/user-attachments/assets/d4da3383-25f3-4555-a337-852ff9bf2c0a)
