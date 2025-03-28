@@ -6,4 +6,4 @@
 i have used to store the data localy because the url is in get method
 ![image](https://github.com/user-attachments/assets/461aa9fa-6523-4057-b658-5832269d32c0)
 
-Bearer token is refreshing and got closed not able to retrive the content using the bearer tokens i have written the code for frontend with the tailwiundcss 
+Bearer token is refreshing and got closed not able to retrive the content using the bearer tokens i have written the code for frontend with the tailwindcss 
